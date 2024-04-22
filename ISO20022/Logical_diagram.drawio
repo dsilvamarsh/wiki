@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T09:57:10.699Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="OOlvQeFntrCdGU4RMzX7" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T09:59:11.902Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="pf-PGGnB-gsWVS7vbjNh" version="24.2.7" type="github">
   <diagram name="Page-1" id="MLtQk3vHUTkxgNtXT_qU">
     <mxGraphModel dx="1026" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="90" y="30" width="1170" height="670" as="geometry" />
         </mxCell>
         <mxCell id="Mw8HzguYVF91iIR_zXkX-12" value="API Namespace" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;fillColor=#F1F8E9;" vertex="1" parent="1">
-          <mxGeometry x="160" y="90" width="280" height="420" as="geometry" />
+          <mxGeometry x="160" y="90" width="310" height="420" as="geometry" />
         </mxCell>
         <mxCell id="Mw8HzguYVF91iIR_zXkX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mw8HzguYVF91iIR_zXkX-3" target="Mw8HzguYVF91iIR_zXkX-4">
           <mxGeometry relative="1" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="220" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mw8HzguYVF91iIR_zXkX-13" value="Data Namespace" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#d6b656;shadow=0;dashed=0;fontSize=12;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="470" y="90" width="320" height="420" as="geometry" />
+          <mxGeometry x="470" y="90" width="390" height="420" as="geometry" />
         </mxCell>
         <mxCell id="Mw8HzguYVF91iIR_zXkX-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mw8HzguYVF91iIR_zXkX-6" target="Mw8HzguYVF91iIR_zXkX-7">
           <mxGeometry relative="1" as="geometry" />
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="Mw8HzguYVF91iIR_zXkX-38" value="Architecture: ISO20022 Payment processing&amp;nbsp;" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="-10" width="1170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mw8HzguYVF91iIR_zXkX-39" value="devops-tools Namespace" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;whiteSpace=wrap;fillColor=#F3E5F5;" vertex="1" parent="1">
+          <mxGeometry x="160" y="510" width="980" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
